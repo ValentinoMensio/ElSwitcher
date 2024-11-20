@@ -1,0 +1,13 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+	<title>Proyecto nuevo</title>
+	<style>
+		.s0 { fill: #e53e3e } 
+		.s1 { fill: #38a169 } 
+		.s2 { fill: #3182ce } 
+		.s3 { fill: #f6e05e } 
+	</style>
+	<path id="Background" class="s0" d="m8 8v7h-7v-7z"/>
+	<path id="Layer 1" class="s1" d="m16 0v7h-7v-7z"/>
+	<path id="Layer 1 copy" class="s2" d="m16 8v7h-7v-7z"/>
+	<path id="Layer 1 copy 2" class="s3" d="m8 0v7h-7v-7z"/>
+</svg>
