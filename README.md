@@ -22,7 +22,7 @@ El objetivo académico fue fortalecer habilidades fundamentales en ingeniería d
   - 1 desarrollador full stack. 
 - **Tecnologías utilizadas:** 
   - **Backend:** FastAPI, Python, WebSockets, SQLite. 
-  - **Frontend:** Node.js, JavaScript/TypeScript. 
+  - **Frontend:** React, JavaScript/TypeScript.
   - **Testing:** Pytest y Vitest.
   - **Gestión de tareas:** Jira.
 
@@ -62,7 +62,7 @@ En este proyecto, realizé el rol de scrum master y de programador backend. Algu
 
   - Diseñé la arquitectura del backend utilizando el enfoque de **arquitectura hexagonal** con **vertical slicing** facilitando la separación de capas y la escalabilidad del sistema.
   - Documentación detallada del diseño en el repositorio:
-[**Enlace al proyecto**](link_al_proyecto)
+![Enlace a la documentacion](switcher-backend/src/ARCHITECTURE.md)
 
 ## Conclusión
 Este proyecto no solo me permitió desarrollar un producto funcional adquiriendo habilidades técnicas, sino que también fortaleció mis habilidades blandas en áreas clave como el liderazgo ágil, el desarrollo técnico individual y la colaboración en equipo.
